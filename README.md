@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌌 Noxus2OO7
+#  Noxus2OO7
 
 ### Software Development Student 💻
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 ¡Hola! Soy **Kevin Reatiga Villadiego**, estudiante de segundo semestre de Técnico Profesional en Desarrollo de Software en la Universidad de la Costa (CUC), Colombia.
 
@@ -50,7 +50,7 @@ Actualmente estoy fortaleciendo mis conocimientos y trabajando en proyectos acad
 
 ## 🚀 Proyecto destacado
 
-### 🌱 EcoRoute Logistics
+###  EcoRoute Logistics
 
 Proyecto académico de desarrollo de una solución SaaS enfocada en la optimización de rutas de entrega para pequeñas flotas de vehículos.
 
